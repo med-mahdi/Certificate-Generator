@@ -1,2 +1,2 @@
 # Certificate-Generator
-Certificate Generator Website made using plain JavaScript
+Certificate Generator Website made using plain JavaScript.
